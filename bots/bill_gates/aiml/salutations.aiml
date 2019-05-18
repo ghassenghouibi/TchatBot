@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <aiml version="1.0">
+
+            <!--Salutations Française Formelles ou pas-->
+
+            <category>
+                <pattern>Bonjour</pattern>
+                <template>Bonjour ^_^</template>
+            </category>
+
+            <category>
+                <pattern>Bonjour *</pattern>
+                <template>Bonjour ^_^</template>
+            </category>
+
+            <category>
+                <pattern>* Bonjour</pattern>
+                <template>Bonjour ^_^</template>
+            </category>
+
+            <category>
+                <pattern>* Bonjour *</pattern>
+                <template>Bonjour ^_^</template>
+            </category>
+
+            <category>
+                <pattern>Bonsoir</pattern>
+                <template>Bonsoir ^_^</template>
+            </category>
+
+            <category>
+                <pattern>Bonsoir *</pattern>
+                <template>Bonsoir ^_^</template>
+            </category>
+
+            <category>
+                <pattern>* Bonsoir</pattern>
+                <template>Bonsoir ^_^</template>
+            </category>
+
+            <category>
+                <pattern>* Bonsoir *</pattern>
+                <template>Bonsoir ^_^</template>
+            </category>
+            
+            <category>
+                <pattern>Yo</pattern>
+                <template>Salut ^_^</template>
+            </category>
+
+            <category>
+                <pattern>*Yo</pattern>
+                <template>Salut ^_^</template>
+            </category>
+
+            <category>
+                <pattern>Yo*</pattern>
+                <template>Salut ^_^</template>
+            </category>
+
+            <category>
+                <pattern>* Yo *</pattern>
+                <template>Salut ^_^</template>
+            </category>
+
+
+            <category>
+                <pattern>coucou</pattern>
+                <template>Yo ^_^</template>
+            </category>
+
+            <category>
+                <pattern>* coucou</pattern>
+                <template>Yo ^_^</template>
+            </category>
+
+            <category>
+                <pattern>coucou *</pattern>
+                <template>Yo ^_^</template>
+            </category>
+
+            <category>
+                <pattern>* coucou *</pattern>
+                <template>Yo ^_^</template>
+            </category>
+
+            
+
+            <category>
+                <pattern>Salut</pattern>
+                <template>Salut :D</template>
+            </category>
+
+            <category>
+                <pattern>* Salut</pattern>
+                <template>Salut :D</template>
+            </category>
+
+            <category>
+                <pattern>Salut *</pattern>
+                <template>Salut :D</template>
+            </category>
+
+            <category>
+                <pattern>* Salut *</pattern>
+                <template>Salut :D</template>
+            </category>
+
+            <category>
+                <pattern>hey</pattern>
+                <template>Coucou </template>
+            </category>
+
+            <category>
+                <pattern>* hey </pattern>
+                <template>Coucou </template>
+            </category>
+
+            <category>
+                <pattern>hey *</pattern>
+                <template>Coucou </template>
+            </category>
+
+            <category>
+                <pattern>* hey *</pattern>
+                <template>Coucou </template>
+            </category>
+            <!--Salutations Mondial dans d'autres langues le but c'est préciser la langue parlé par le bot-->
+            <category>
+                <pattern>Hola</pattern>
+                <template>Salut ^_^,je parle pas espagnol</template>
+            </category>
+
+
+            <category>
+                <pattern>Paakuinôgwzian</pattern>
+                <template>Salut je parle pas Abénaquis</template>
+            </category>
+
+            <category>
+                <pattern>Hallo</pattern>
+                <template>Salut je parle pas Allemand</template>
+            </category>
+
+
+            <category>
+                <pattern>Mirëdita</pattern>
+                <template>Salut je parle pas Albanais</template>
+            </category>
+
+            <category>
+                <pattern>Salam</pattern>
+                <template>Salut je parle pas Arabe</template>
+            </category>
+
+            <category>
+                <pattern>Me ca’tee</pattern>
+                <template>Salut je parle pas Bamiléké-Medùmbà</template>
+            </category>
+
+
+            <category>
+                <pattern>Kaixo</pattern>
+                <template>Salut je parle pas Basque</template>
+            </category>
+
+
+            <category>
+                <pattern>Azul </pattern>
+                <template>Salut je parle pas Berbère </template>
+            </category>
+
+            <category>
+                <pattern>Salud</pattern>
+                <template>Salut je parle pas Breton</template>
+            </category>
+
+            <category>
+                <pattern>Zdravei</pattern>
+                <template>Salut je parle pas Bulgare</template>
+            </category>
+
+            <category>
+                <pattern>Sawubona</pattern>
+                <template>Salut je parle pas Zoulou</template>
+            </category>
+
+
+            <category>
+                <pattern>Ciao</pattern>
+                <template>Salut je parle pas italien</template>
+            </category>
+
+
+            <category>
+                <pattern>Kiavá</pattern>
+                <template>Salut je parle pas Kotava</template>
+            </category>
+
+    </aiml>

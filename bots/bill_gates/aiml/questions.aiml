@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <aiml version="1.0">
+
+        <category>
+            <pattern>alors</pattern>
+            <template>alors ...</template>
+        </category>
+
+        <category>
+            <pattern>quoi</pattern>
+            <template>quoi ?!</template>
+        </category>
+
+        <category>
+            <pattern>donc</pattern>
+            <template>donc quoi ?</template>
+        </category>
+
+        <category>
+            <pattern>dis donc</pattern>
+            <template>eh ben</template>
+        </category>
+
+        <category>
+            <pattern>comment</pattern>
+            <template>comment quoi ?</template>
+        </category>
+
+
+        <category>
+            <pattern>pourquoi</pattern>
+            <template>c'est comme ça</template>
+        </category>
+
+    </aiml>

@@ -1,6 +1,6 @@
 # run project
-java -cp lib/Ab.jar Main bot=voyages action=aiml2csv trace=false
-java -cp lib/Ab.jar Main bot=voyages action=chat trace=false
+java -jar lib/Ab.jar Main bot=bill_gates action=aiml2csv trace=false
+java -jar lib/Ab.jar Main bot=bill_gates action=chat     trace=false
 
 
 
