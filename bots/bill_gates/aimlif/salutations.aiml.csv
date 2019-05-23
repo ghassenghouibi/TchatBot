@@ -1,37 +1,43 @@
 0,BONJOUR,*,*,Bonjour ^_^,salutations.aiml
 0,BONJOUR *,*,*,Bonjour ^_^,salutations.aiml
 0,* BONJOUR,*,*,Bonjour ^_^,salutations.aiml
-0,* BONJOUR *,*,*,Bonjour ^_^,salutations.aiml
 0,BONSOIR,*,*,Bonsoir ^_^,salutations.aiml
 0,BONSOIR *,*,*,Bonsoir ^_^,salutations.aiml
 0,* BONSOIR,*,*,Bonsoir ^_^,salutations.aiml
-0,* BONSOIR *,*,*,Bonsoir ^_^,salutations.aiml
 0,YO,*,*,Salut ^_^,salutations.aiml
 0,*YO,*,*,Salut ^_^,salutations.aiml
 0,YO*,*,*,Salut ^_^,salutations.aiml
-0,* YO *,*,*,Salut ^_^,salutations.aiml
+0,HELLO,*,*,Salut ^_^,salutations.aiml
+0,HELLO *,*,*,Bonjour,salutations.aiml
+0,HI,*,*,Salut ^_^,salutations.aiml
+0,HI *,*,*,Bonjour,salutations.aiml
 0,COUCOU,*,*,Yo ^_^,salutations.aiml
-0,* COUCOU,*,*,Yo ^_^,salutations.aiml
 0,COUCOU *,*,*,Yo ^_^,salutations.aiml
-0,* COUCOU *,*,*,Yo ^_^,salutations.aiml
 0,SALUT,*,*,Salut :D,salutations.aiml
-0,* SALUT,*,*,Salut :D,salutations.aiml
 0,SALUT *,*,*,Salut :D,salutations.aiml
-0,* SALUT *,*,*,Salut :D,salutations.aiml
 0,HEY,*,*,Coucou,salutations.aiml
-0,* HEY,*,*,Coucou,salutations.aiml
 0,HEY *,*,*,Coucou,salutations.aiml
-0,* HEY *,*,*,Coucou,salutations.aiml
 0,HOLA,*,*,Salut ^_^#Commaje parle pas espagnol,salutations.aiml
-0,PAAKUINÔGWZIAN,*,*,Salut je parle pas Abénaquis,salutations.aiml
 0,HALLO,*,*,Salut je parle pas Allemand,salutations.aiml
-0,MIRËDITA,*,*,Salut je parle pas Albanais,salutations.aiml
-0,SALAM,*,*,Salut je parle pas Arabe,salutations.aiml
-0,ME CA’TEE,*,*,Salut je parle pas Bamiléké-Medùmbà,salutations.aiml
-0,KAIXO,*,*,Salut je parle pas Basque,salutations.aiml
-0,AZUL,*,*,Salut je parle pas Berbère,salutations.aiml
-0,SALUD,*,*,Salut je parle pas Breton,salutations.aiml
-0,ZDRAVEI,*,*,Salut je parle pas Bulgare,salutations.aiml
-0,SAWUBONA,*,*,Salut je parle pas Zoulou,salutations.aiml
 0,CIAO,*,*,Salut je parle pas italien,salutations.aiml
-0,KIAVÁ,*,*,Salut je parle pas Kotava,salutations.aiml
+0,BONNE SOIRÉE,*,*,églament merci !! :),salutations.aiml
+0,* BONNE SOIRÉE,*,*,églament merci !! :),salutations.aiml
+0,BONNE SOIRÉE *,*,*,églament merci !! :),salutations.aiml
+0,* BONNE SOIRÉE *,*,*,églament merci !! :),salutations.aiml
+0,BONNE JOURNÉE,*,*,églament merci !! :),salutations.aiml
+0,BONNE NUIT,*,*,moi aussi ça me fera du bien de se reposer bonne nuit (-#Comma – )…zzzZZZ,salutations.aiml
+0,BN8,*,*,<srai>Bonne nuit</srai>,salutations.aiml
+0,BYE BYE,*,*,Au revoir,salutations.aiml
+0,A PLUS,*,*,A bientôt,salutations.aiml
+0,A TRÉS VITE,*,*,A plus,salutations.aiml
+0,A BIENTÔT,*,*,a trés vite,salutations.aiml
+0,BYE *,*,*,<srai>Bye Bye</srai>,salutations.aiml
+0,AU REVOIR,*,*,au revoir,salutations.aiml
+0,QUITTER,*,*,déjà :( bon je souhaite une excellente fin de journée,salutations.aiml
+0,HIHIHI,*,*,Houla,salutations.aiml
+0,HAHAHAHHA,*,*,quelques semaines,salutations.aiml
+0,JAJAJAJAJA,*,*,quelques semaines,salutations.aiml
+0,GAGAGAGAGA,*,*,quelques semaines,salutations.aiml
+0,MDRR,*,*,quelques semaines,salutations.aiml
+0,HHHHHHHHHHH,*,*,Mort de rire,salutations.aiml
+0,LOL,*,*,hahahahaha (ツ),salutations.aiml

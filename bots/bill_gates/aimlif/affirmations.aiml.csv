@@ -1,0 +1,37 @@
+0,OUI,*,*,bien :),affirmations.aiml
+0,OUI *,*,*,bien :),affirmations.aiml
+0,D'ACCORD,*,*,ok :),affirmations.aiml
+0,OK OK,*,*,bien :),affirmations.aiml
+0,JE COMPREND,*,*,parfait :),affirmations.aiml
+0,OUI JE VOIS,*,*,nickel,affirmations.aiml
+0,OUI JE AFFIRME,*,*,bien :),affirmations.aiml
+0,JE VOIS,*,*,bien :),affirmations.aiml
+0,JE SUIS TOUT À FAIT D'ACCORD,*,*,bien :),affirmations.aiml
+0,JE NE SUIS PAS D'ACCORD,*,*,vous avez le droit chacun à son point de vue,affirmations.aiml
+0,TU PEUX,*,*,merci :),affirmations.aiml
+0,NON JE NE SUIS PAS D'ACCORD,*,*,ah ok :),affirmations.aiml
+0,NON,*,*,oups :(,affirmations.aiml
+0,NON *,*,*,bien :),affirmations.aiml
+0,YEP,*,*,:),affirmations.aiml
+0,NOPE,*,*,d'accord,affirmations.aiml
+0,OK,*,*,:),affirmations.aiml
+0,SHUT,*,*,pardon,affirmations.aiml
+0,PSSTT,*,*,oui !? -_-,affirmations.aiml
+0,PSS*,*,*,oui !? -_-,affirmations.aiml
+0,* PSST,*,*,oui !? -_-,affirmations.aiml
+0,HUM,*,*,Humm,affirmations.aiml
+0,UHH,*,*,Uhh,affirmations.aiml
+0,HUMM,*,*,Humm,affirmations.aiml
+0,HOHOHO,*,*,hihihihih,affirmations.aiml
+0,BON,*,*,bonbon :p j'éspère que c'est pas une blague déplacer,affirmations.aiml
+0,ALORS,*,*,alors ...,affirmations.aiml
+0,?,*,*,une question peut être,affirmations.aiml
+0,QUOI,*,*,quoi ?!,affirmations.aiml
+0,DONC,*,*,donc quoi ?,affirmations.aiml
+0,DIS DONC,*,*,eh ben,affirmations.aiml
+0,COMMENT,*,*,comment quoi ?,affirmations.aiml
+0,POURQUOI,*,*,c'est comme ça,affirmations.aiml
+0,QUAND,*,*,quand quoi ?,affirmations.aiml
+0,DIT,*,*,je dit quoi ?,affirmations.aiml
+0,ALORS VOUS FAITES QUOI,*,*,rien j'essaye d'apprendre de nouvelles langues,affirmations.aiml
+0,VOUS SAVEZ FAIRE QUOI,*,*,vous donnez des informations préciseuse sur microsoft,affirmations.aiml

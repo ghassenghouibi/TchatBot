@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+
+
+<category>
+<pattern>vous avez des conseils</pattern>
+<template>
+<random>
+<li>La vie est injuste: habituez vous.</li>
+<li>Le monde se fout de votre amour-propre.</li>
+<li>Le monde s'attendra à ce que vous accomplissiez quelque chose AVANT que vous ne vous félicitiez vous-même.</li>
+<li>Vous ne gagnerez pas 60,000$ par an en sortant de l'école.</li>
+<li>Vous ne serez pas vice-président en commençant, avec GSM et voiture de fonction fournis, avant d'avoir mérité, gagné ces privilèges.</li>
+<li>Si vous croyez que votre professeur est dur avec vous, attendez d'avoir un patron.</li>
+<li>Travailler dans une friterie n'est pas s'abaisser. Vos grands-parents avaient un mot différent pour ça: ils l'appelaient une opportunité.</li>
+<li>Si vous gaffez, ce n'est la faute de personne d'autre, arrêtez de pleurnicher et apprenez de vos erreurs.</li>
+<li>Avant que vous naissiez, vos parents n'étaient pas aussi ennuyants qu'ils le sont maintenant !
+Ils sont devenus comme ça :
+     · En payant vos factures,
+     · En nettoyant vos vêtements
+     · Et en vous entendant répéter sans arrêt combien vous êtes bons et cools.
+Ainsi, avant de sauver les forêts tropicales des parasites de la génération de vos parents, commencez donc par faire le ménage dans votre propre chambre et tout ce qui s'y trouve.</li>
+<li>Votre école s'est peut-être débarrassé du système « gagnant-perdant », pas la vie !
+Dans certaines écoles, on a aboli les notes de passage et on vous donne autant de chances que vous voulez pour obtenir la bonne réponse.
+Ceci n'existe pas dans la vraie vie.</li>
+<li>La vie n'est pas divisée en semestres.
+L'été n'est pas une période de congé.
+Et très peu d'employeurs sont disposés à vous aider à vous assumer, c'est votre responsabilité.</li>
+<li>La télévision n'est pas la «vraie vie».
+Dans la vraie vie, les gens quittent le café et vont travailler.</li>
+<li>'expliquerais que l'intelligence n'est pas unidimensionnelle et pas aussi importante que je le pensais à l'époque. Je dirais que tu devrais explorer le monde en développement avant d'arriver à la quarantaine. Je n'étais pas très bon socialement à l'époque, mais je ne sais pas si il y a un conseil pour y remédier — peut être que je devais être maladroit et juste grandir...</li>
+</random>
+</template>
+</category>
+
+<category>
+<pattern>vous avez d'autres conseils</pattern>
+<template><srai>vous avez des conseils</srai></template>
+</category>
+
+<category>
+<pattern>aurez vous des conseils à me donnez</pattern>
+<template><srai>vous avez des conseils</srai></template>
+</category>
+
+<category>
+<pattern>j'aimerai bien avoir quelques conseils</pattern>
+<template><srai>vous avez des conseils</srai></template>
+</category>
+
+<category>
+<pattern>donc vous avez des conseils ?</pattern>
+<template><srai>vous avez des conseils</srai></template>
+</category>
+
+
+<category>
+<pattern>comment vous avez réussi</pattern>
+<template><srai>vous avez des conseils</srai></template>
+</category>
+
+<category>
+<pattern>* conseils *</pattern>
+<template><srai>vous avez des conseils</srai></template>
+</category>
+
+<category>
+<pattern>* conseils</pattern>
+<template><srai>vous avez des conseils</srai></template>
+</category>
+
+</aiml>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+
+
+<category><pattern>oui</pattern><template>bien :)</template></category>
+<category><pattern>oui *</pattern><template>bien :)</template></category>
+<category><pattern>d'accord</pattern><template>ok :)</template></category>
+<category><pattern>ok ok</pattern><template>bien :)</template></category>
+<category><pattern>je comprend</pattern><template>parfait :)</template></category>
+<category><pattern>oui je vois</pattern><template>nickel</template></category>
+<category><pattern>oui je affirme</pattern><template>bien :)</template></category>
+<category><pattern>je vois</pattern><template>bien :)</template></category>
+<category><pattern>je suis tout à fait d'accord</pattern><template>bien :)</template></category>
+<category><pattern>je ne suis pas d'accord</pattern><template>vous avez le droit chacun à son point de vue</template></category>
+<category><pattern>tu peux</pattern><template>merci :)</template></category>
+<category><pattern>non je ne suis pas d'accord</pattern><template>ah ok :)</template></category>
+<category><pattern>non</pattern><template>oups :(</template></category>
+<category><pattern>non *</pattern><template>bien :)</template></category>
+<category><pattern>ca va</pattern><template>parfait</template></category>
+<category><pattern>yep</pattern><template>:)</template></category>
+<category><pattern>nope</pattern><template>d'accord</template></category>
+<category><pattern>ok</pattern><template>:)</template></category>
+<category><pattern>shut</pattern><template>pardon</template></category>
+<category><pattern>psstt</pattern><template>oui !? -_-</template></category>
+<category><pattern>pss*</pattern><template>oui !? -_-</template></category>
+<category><pattern>* psst</pattern><template>oui !? -_-</template></category>
+<category><pattern>Hum</pattern><template>Humm</template></category>
+<category><pattern>uhh</pattern><template>Uhh</template></category>
+<category><pattern>Humm</pattern><template>Humm</template></category>
+<category><pattern>Hohoho</pattern><template>hihihihih</template></category>
+<category><pattern>bon</pattern><template>bonbon :p j'éspère que c'est pas une blague déplacer</template></category>
+<category><pattern>alors</pattern><template>alors ...</template></category>
+<category><pattern>?</pattern><template>une question peut être</template></category>
+<category><pattern>quoi</pattern><template>quoi ?!</template></category>
+<category><pattern>donc</pattern><template>donc quoi ?</template></category>
+<category><pattern>dis donc</pattern><template>eh ben</template></category>
+<category><pattern>comment</pattern><template>comment quoi ?</template></category>
+<category><pattern>pourquoi</pattern><template>c'est comme ça</template></category>
+<category><pattern>quand</pattern><template>quand quoi ?</template></category>
+<category><pattern>dit</pattern><template>je dit quoi ?</template></category>
+<category><pattern>alors vous faites quoi</pattern><template>rien j'essaye d'apprendre de nouvelles langues</template></category>
+<category><pattern>vous savez faire quoi</pattern><template>vous donnez des informations préciseuse sur microsoft</template></category>
+
+</aiml>

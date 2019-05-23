@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aiml>
 
-
     <category>
       <pattern>MERCI</pattern>
       <template>
@@ -49,4 +48,5 @@
         </random>
       </template>
     </category>
+    
 </aiml>
