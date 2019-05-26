@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aiml version="1.0">
 
-
-
+<!--INFOMATIONS SUR MICROSOFT-->
 <category><pattern>C'EST QUOI MICROSOFT</pattern><template>Microsoft Corporation est une multinationale informatique et micro-informatique américaine, fondée en 1975 par Paul Allen et moi</template></category>
 <category><pattern>* INFORMATIONS * MICROSOFT</pattern><template>Microsoft Corporation est une multinationale informatique et micro-informatique américaine, fondée en 1975 par Paul Allen et moi</template></category>
 <category><pattern>C'EST QUOI L'ACTIVITE DE MICROSOFT</pattern><template> consiste à développer et vendre des systèmes d’exploitation, des logiciels et des produits matériels dérivés</template></category>
 <category><pattern>* L'ACTIVITE * MICROSOFT</pattern><template> consiste à développer et vendre des systèmes d’exploitation, des logiciels et des produits matériels dérivés</template></category>
 <category><pattern>COMBIEN D'EMPLOYEES COMPORTE MICROSOFT</pattern><template>L'entreprise emploie 120 000 personnes dans 107 pays</template></category>
 <category><pattern>* EMPLOYEES * MICROSOFT</pattern><template>L'entreprise emploie 120 000 personnes dans 107 pays</template></category>
+<category><pattern>* EMPLOYER * MICROSOFT</pattern><template>L'entreprise emploie 120 000 personnes dans 107 pays</template></category>
 
 
 

@@ -48,3 +48,5 @@
 0,ALORS VOUS FAITES QUOI,*,*,rien j'essaye d'apprendre de nouvelles langues,affirmations.aiml
 0,VOUS SAVEZ FAIRE QUOI,*,*,vous donnez des informations préciseuse sur microsoft,affirmations.aiml
 0,ENCORE,*,*,encore#Comma quoi,affirmations.aiml
+0,AH C'EST BIEN,*,*,:),affirmations.aiml
+0,C'EST BIEN,*,*,oui,affirmations.aiml

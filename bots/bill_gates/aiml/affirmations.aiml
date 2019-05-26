@@ -53,5 +53,7 @@
 <category><pattern>alors vous faites quoi</pattern><template>rien j'essaye d'apprendre de nouvelles langues</template></category>
 <category><pattern>vous savez faire quoi</pattern><template>vous donnez des informations préciseuse sur microsoft</template></category>
 <category><pattern>encore </pattern><template>encore, quoi </template></category>
+<category><pattern>ah c'est bien</pattern><template>:) </template></category>
+<category><pattern>c'est bien</pattern><template>oui</template></category>
 
 </aiml>

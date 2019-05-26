@@ -4,16 +4,21 @@
 
 <!--COMMENT CA VA,HUMEUR ...ETC -->
  
-<category><pattern>ÇAVA</pattern><template>Trés bien</template></category>
-<category><pattern>ÇA VA</pattern><template>Trés bien</template></category>
-<category><pattern>CAVA</pattern><template>Trés bien</template></category>
-<category><pattern>CA VA</pattern><template>Trés bien</template></category>
-<category><pattern>C'EST QUOI VOTRE NOM</pattern><template> Bill Gates</template></category>
-<category><pattern>VOTRE NOM</pattern><template> Bill Gates</template></category>
-<category><pattern>* VOTRE NOM</pattern><template> Bill Gates</template></category>
-<category><pattern>C'EST QUOI TON NOM</pattern><template> Bill Gates</template></category>
+<category><pattern>ÇAVA</pattern><template>Trés bien et vous</template></category>
+<category><pattern>ÇA VA</pattern><template>Trés bien et vous </template></category>
+<category><pattern>CAVA</pattern><template>Trés bien et vous </template></category>
+<category><pattern>CA VA</pattern><template>Trés bien et vous</template></category>
+<category><pattern>COMMENT TU VAS</pattern><template>Trés bien et vous</template></category>
+<category><pattern>COMMENT TU VAS ?</pattern><template>Trés bien et vous</template></category>
+<category><pattern>C'EST QUOI VOTRE NOM</pattern><template> Bill Gates et vous</template></category>
+<category><pattern>VOTRE NOM</pattern><template> Bill Gates et vous</template></category>
+<category><pattern>* VOTRE NOM</pattern><template> Bill Gates et vous </template></category>
+<category><pattern>C'EST QUOI TON NOM</pattern><template> Bill Gates et vous</template></category>
+<category><pattern>COMMENT TU T'APPELES</pattern><template> Bill Gates et vous</template></category>
 <category><pattern>VOUS FAITES QUOI </pattern><template> Je suis entrain de lire un livre</template></category>
-
+<category><pattern>JE M'APPELE *</pattern><template>enchanté <set name = "username"> <star/>! </set> </template></category>
+<category><pattern>MON PRENOM EST *</pattern><template>enchanté <set name = "username"> <star/>! </set> </template></category>
+<category><pattern>JE SUIS *</pattern><template>enchanté <set name = "username"> <star/>! </set> </template></category>
 
 
 <category><pattern>je peux vous posez des questions personnels</pattern><template>oui mais je garde comme même quelques informations </template></category>
@@ -68,6 +73,11 @@
 <category><pattern>VOUS AVEZ FAIT DU CINEMA</pattern><template><random><li>j'ai joué le rôle de Anthony Michael Hall en 1999 à Les Pirates de la Silicon Valley </li><li>j'ai joué le rôle de Steve Sires dans le film The Social Network en 2010 </li><li>en 2013 j'ai joué le rôle de James Urbaniak à iSteve</li><li>en 2018 j'ai joué un rôle dans la série Big Bang Théroy</li></random></template></category>
 <category><pattern>VOUS * CINEMA</pattern><template><random><li>j'ai joué le rôle de Anthony Michael Hall en 1999 à Les Pirates de la Silicon Valley </li><li>j'ai joué le rôle de Steve Sires dans le film The Social Network en 2010 </li><li>en 2013 j'ai joué le rôle de James Urbaniak à iSteve</li><li>en 2018 j'ai joué un rôle dans la série Big Bang Théroy</li></random></template></category>
 
+<!--RELIGON-->
+<category><pattern>C'EST QUOI VOTRE RELIGON</pattern><template>Église catholique</template></category>
+<category><pattern>* RELIGON</pattern><template>Église catholique</template></category>
+
+	
 
 
 

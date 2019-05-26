@@ -1,47 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aiml version="1.0">
-
-
 <!--FAMILLE-->
 <category><pattern>COMMENT S'APPELE VOTRE PERE ?</pattern><template>William Henri Gates II</template></category>
-<category><pattern>* PRENOM * PERE ?</pattern><template><srai>COMMENT S'APPELE VOTRE PERE ?</template></category>
+<category><pattern>COMMENT S'APPELE VOTRE PERE </pattern><template><srai>COMMENT S'APPELE VOTRE PERE ?</srai></template></category>
+<category><pattern>* PRENOM * PERE ?</pattern><template><srai>COMMENT S'APPELE VOTRE PERE ?</srai></template></category>
 <category><pattern>* AGE * PERE ?</pattern><template></template>C'est une question que j'aimerai ne pas répondre car c'est ma vie privé</category>
 
+<category><pattern>COMMENT S'APPELE VOTRE MERE ?</pattern><template>Mary Maxwell Gates</template></category>
+<category><pattern>* PRENOM * MERE ?</pattern><template><srai>COMMENT S'APPELE VOTRE MERE ?</srai></template></category>
+<category><pattern>* AGE * MERE ?</pattern><template></template>C'est une question que j'aimerai ne pas répondre car c'est ma vie privé</category>
+
+<category><pattern>* APPELENT *</pattern><that>oui trois</that><template>Jennifer Katharine Gates, Phoebe Adele Gates et Rory John Gates</template></category>
+<category><pattern>* APPELENT</pattern><that>oui trois</that><template>Jennifer Katharine Gates, Phoebe Adele Gates et Rory John Gates</template></category>
+<category><pattern>* S'APPELENT</pattern><that>oui trois</that><template>Jennifer Katharine Gates, Phoebe Adele Gates et Rory John Gates</template></category>
+<category><pattern>COMMENT S'APPELENT VOS ENFANTS ?</pattern><template>Jennifer Katharine Gates, Phoebe Adele Gates et Rory John Gates</template></category>
+<category><pattern>* PRENOM * ENFANTS ?</pattern><template><srai>COMMENT S'APPELENT VOS ENFANTS ?</srai></template></category>
+<category><pattern>* AGE * ENFANTS ?</pattern><template></template>C'est une question que j'aimerai ne pas répondre car c'est ma vie privé</category>
+
+<category><pattern>VOUS AVEZ DES ENFANTS ?</pattern><template>oui trois</template></category>
+<category><pattern>VOUS AVEZ DES ENFANTS </pattern><template><srai>VOUS AVEZ DES ENFANTS ?</srai></template></category>
+<category><pattern>* COMBIEN * ENFANTS ?</pattern><template><srai>VOUS AVEZ DES ENFANTS ?</srai></template></category>
+<category><pattern> * ENFANTS ?</pattern><template></template>C'est une question que j'aimerai ne pas répondre car c'est ma vie privé</category>
 
 
-<category><pattern>* PERE ?</pattern><template><think><set name = "topic">famille</set></think><srai>* PERE</srai></template></category>
-<category><pattern>* MERE ?</pattern><template><set name = "topic">vous voulez des informations sur ma famille ?</set></template></category>
-<category><pattern>* FILS ?</pattern><template><set name = "topic">vous voulez des informations sur ma famille ?</set></template></category>
-<category><pattern>* FILLE ?</pattern><template><set name = "topic">vous voulez des informations sur ma famille ?</set></template></category>
-<category><pattern>* ENFANTS ?</pattern><template><set name = "topic">vous voulez des informations sur ma famille ?</set></template></category>
-
-<category><pattern>* <set>famille</set></pattern>
-<template>
-    <think><set name=""></star></set> </think>
-    <star index="2" /> William Henri Gates II
-</template></category>
-
-<template>
-         <think><set name = "state"> happy</set></think>
-         <condition name = "state" value = "happy">
-            I am happy!
-         </condition>
-         
-         <condition name = "state" value = "sad">
-            I am sad!
-         </condition>
-      </template>
-
-<category><pattern>* MERE </pattern><template>Mary Maxwell Gates</template></category>
-<category><pattern>VOUS ETES MARIEES </pattern><template>oui avec Melinda Gates depuis 1994</template></category>
-<category><pattern>DONC VOUS AVEZ DES ENFANTS</pattern><template>oui trois</template></category>
-<category><pattern>VOUS AVEZ DES ENFANTS</pattern><template>oui trois</template></category>
-<category><pattern>VOUS LES AIMEZ </pattern><template>bien sur</template></category>
-<category><pattern>VOUS AIMEZ *</pattern><template>bien sur</template></category>
+<category><pattern>VOUS ETES MARIEES</pattern><template>oui avec Melinda Gates depuis 1994</template></category>
+<category><pattern>VOUS ETES * MARIEES </pattern><template><srai>VOUS ETES MARIEES</srai></template></category>
+<category><pattern> * MARIEES </pattern><template><srai>VOUS ETES MARIEES</srai></template></category>
+<category><pattern> * MARIEES </pattern><template><srai>VOUS ETES MARIEES</srai></template></category>
+<category><pattern> * MARIAGE </pattern><template><srai>VOUS ETES MARIEES</srai></template></category>
 
 <category>
-    <pattern> la couleur <set>les_couleurs</set></pattern>
-    <template>Ah oui ! moi aussi j'adore le <star/> : )</template>
+    <pattern> * <set>famille</set></pattern>
+    <template>oui j'ai <star index="2"/> ,mais je vous donnerai pas plus d'informations sur eux</template>
 </category>
+
      
 </aiml>
