@@ -69,4 +69,14 @@ Dans la vraie vie, les gens quittent le café et vont travailler.</li>
 <template><srai>vous avez des conseils</srai></template>
 </category>
 
+<category>
+<pattern>* conseil *</pattern>
+<template><srai>vous avez des conseils</srai></template>
+</category>
+
+<category>
+<pattern>* conseil</pattern>
+<template><srai>vous avez des conseils</srai></template>
+</category>
+
 </aiml>

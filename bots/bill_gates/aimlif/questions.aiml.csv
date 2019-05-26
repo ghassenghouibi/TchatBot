@@ -46,5 +46,3 @@
 0,C'EST * ACTIVITÉ,*,*,<random><li>entrepreneur</li><li>programmeur</li><li>informaticien</li><li>philanthrope</li><li>inventeur</li><li>financier</li><li>joueur de bridge</li><li>investisseur</li><li>acteur</li></random>,questions.aiml
 0,VOUS AVEZ FAIT DU CINEMA,*,*,<random><li>j'ai joué le rôle de Anthony Michael Hall en 1999 à Les Pirates de la Silicon Valley </li><li>j'ai joué le rôle de Steve Sires dans le film The Social Network en 2010 </li><li>en 2013 j'ai joué le rôle de James Urbaniak à iSteve</li><li>en 2018 j'ai joué un rôle dans la série Big Bang Théroy</li></random>,questions.aiml
 0,VOUS * CINEMA,*,*,<random><li>j'ai joué le rôle de Anthony Michael Hall en 1999 à Les Pirates de la Silicon Valley </li><li>j'ai joué le rôle de Steve Sires dans le film The Social Network en 2010 </li><li>en 2013 j'ai joué le rôle de James Urbaniak à iSteve</li><li>en 2018 j'ai joué un rôle dans la série Big Bang Théroy</li></random>,questions.aiml
-0,* MICROSOFT,*,*,La meilleur société du monde,questions.aiml
-0,C'EST QUOI LES VERSIONS DE WINDOWS,*,*,<random><li> </li> <li> </li> <li> </li> <li> </li> <li> </li> </random>,questions.aiml

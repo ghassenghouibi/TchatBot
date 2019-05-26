@@ -1,20 +1,31 @@
+0,COOL,*,*,parfait :),affirmations.aiml
+0,COOL *,*,*,parfait :),affirmations.aiml
 0,OUI,*,*,bien :),affirmations.aiml
 0,OUI *,*,*,bien :),affirmations.aiml
 0,D'ACCORD,*,*,ok :),affirmations.aiml
+0,D'ACCORD *,*,*,ok :),affirmations.aiml
 0,OK OK,*,*,bien :),affirmations.aiml
 0,JE COMPREND,*,*,parfait :),affirmations.aiml
+0,JE NE COMPREND PAS,*,*,ah désolé je pourrai pas expliquer mieux,affirmations.aiml
+0,JE NE VOUS COMPREND PAS,*,*,ah désolé je pourrai pas expliquer mieux,affirmations.aiml
 0,OUI JE VOIS,*,*,nickel,affirmations.aiml
-0,OUI JE AFFIRME,*,*,bien :),affirmations.aiml
+0,JE NE VOIS PAS CE QUE VOUS VOULEZ DIRE,*,*,Oups#Comma moi non plus je pourrai pas faire mieux,affirmations.aiml
+0,JE NE VOIS PAS * DIRE,*,*,Oups#Comma moi non plus je pourrai pas faire mieux,affirmations.aiml
+0,OUI J'AFFIRME,*,*,bien :),affirmations.aiml
 0,JE VOIS,*,*,bien :),affirmations.aiml
 0,JE SUIS TOUT À FAIT D'ACCORD,*,*,bien :),affirmations.aiml
 0,JE NE SUIS PAS D'ACCORD,*,*,vous avez le droit chacun à son point de vue,affirmations.aiml
-0,TU PEUX,*,*,merci :),affirmations.aiml
+0,JE PENSE QUE OUI,*,*,ben parfait :),affirmations.aiml
+0,JE NE PENSE PAS,*,*,ben parfait :),affirmations.aiml
 0,NON JE NE SUIS PAS D'ACCORD,*,*,ah ok :),affirmations.aiml
 0,NON,*,*,oups :(,affirmations.aiml
 0,NON *,*,*,bien :),affirmations.aiml
 0,YEP,*,*,:),affirmations.aiml
 0,NOPE,*,*,d'accord,affirmations.aiml
 0,OK,*,*,:),affirmations.aiml
+0,OH !,*,*,vous êtes étonné,affirmations.aiml
+0,JE SUIS SÛR,*,*,d'accord je suis du même point de vue que vous,affirmations.aiml
+0,JE NE SUIS PAS SÛR,*,*,d'accord,affirmations.aiml
 0,SHUT,*,*,pardon,affirmations.aiml
 0,PSSTT,*,*,oui !? -_-,affirmations.aiml
 0,PSS*,*,*,oui !? -_-,affirmations.aiml
@@ -33,5 +44,7 @@
 0,POURQUOI,*,*,c'est comme ça,affirmations.aiml
 0,QUAND,*,*,quand quoi ?,affirmations.aiml
 0,DIT,*,*,je dit quoi ?,affirmations.aiml
+0,EN FAITE *,*,*,vous pouvez reformuler j'ai du mal a comprendre,affirmations.aiml
 0,ALORS VOUS FAITES QUOI,*,*,rien j'essaye d'apprendre de nouvelles langues,affirmations.aiml
 0,VOUS SAVEZ FAIRE QUOI,*,*,vous donnez des informations préciseuse sur microsoft,affirmations.aiml
+0,ENCORE,*,*,encore#Comma quoi,affirmations.aiml
