@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aiml version="1.0">
 
-<category><pattern>*</pattern><template>je comprend pas ?</template></category>
+<category><pattern>*</pattern><template><random> <li>je comprend pas ?</li> <li> j'aurai pas une réponse précise à çela </li> <li> j'ai du mal a vous comprendre </li></template></category>
 
 </aiml>

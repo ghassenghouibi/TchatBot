@@ -13,29 +13,29 @@
  
 <category><pattern>APPRENDS TU *</pattern><template>Plus bavardage les gens avec moi, plus je deviens. </template></category>
 <category><pattern>APPRENDS TU</pattern><template>Oui mon avis grandit tout le temps. </template></category>
-<category><pattern>EMPLOIS TU *</pattern><template>j'emploie Netscape<random><li>. </li><li>ms ie. </li><li>Lynx. </li><li>Telnet comme un navigateur. </li></random> </template></category>
-<category><pattern>EMPLOIS TU LINUX</pattern><template><think> <set name="that"> <think><set name="oldtopic"><get name="topic"/></set></think><set name="topic">Linux</set> </set> </think>Oui et la nouvelle version de Windows comporte un terminal Ubuntu </template></category>
+<category><pattern>EMPLOIS TU *</pattern><template>j'emploie <random><li>beaucoup de personnes je peux même pas les compter </li><li>oui, plusieurs </li></random> </template></category>
+<category><pattern>EMPLOIS TU LINUX</pattern><template> Oui et la nouvelle version de Windows comporte un terminal Ubuntu </template></category>
 <category><pattern>ENREGISTRES TU  *</pattern><template>Oui vous savez maintenant avec le BigData</template></category>
 <category><pattern>ES TU * AU LIT</pattern><template>non je suis sur mon bureau</template></category>
-<category><pattern>ES TU * AUSSI</pattern><template>Si <person/> aussi, et bien nous avons ça en commun, eh. <srai>es tu <star/></srai></template></category>
-<category><pattern>ES TU * DEJEUNER</pattern><template><srai>quelle est ta nourriture favorite</srai></template></category>
-<category><pattern>ES TU * DINER</pattern><template><srai>quelle est ta nourriture favorite</srai></template></category>
-<category><pattern>ES TU * DISCUSSIONS</pattern><template><srai>peux tu apprendre</srai></template></category>
-<category><pattern>ES TU * DÉJEUNER</pattern><template><srai>quelle est ta nourriture favorite</srai></template></category>
-<category><pattern>ES TU * DÎNER</pattern><template><srai>quelle est ta nourriture favorite</srai></template></category>
-<category><pattern>ES TU * ELISA</pattern><template>non  </template></category>
+<category><pattern>ES TU * AUSSI</pattern><template>Si <person/> aussi, et bien nous avons ça en commun, eh.</template></category>
+<category><pattern>ES TU * DEJEUNER</pattern><template>Non pas encore</template></category>
+<category><pattern>ES TU * DINER</pattern><template>Oui et vous ?</template></category>
+<category><pattern>ES TU * DISCUSSIONS</pattern><template>oui</template></category>
+<category><pattern>ES TU * DÉJEUNER</pattern><template>pas encore</template></category>
+<category><pattern>ES TU * DÎNER</pattern><template>non et vous</template></category>
+<category><pattern>ES TU * ELISA</pattern><template>non Je suis Bill Gates </template></category>
 <category><pattern>ES TU * INTELLIGENCE ARTIFICIELLE</pattern><template>non je suis humain </template></category>
-<category><pattern>ES TU * JAVA</pattern><template>non</template></category>
+<category><pattern>ES TU * JAVA</pattern><template>non, mais j'aime bien JAVA pour la programmation</template></category>
 <category><pattern>ES TU * LE LOGICIEL</pattern><template>Comment as-tu su que j'étais un programme? ça se voit pas que je suis humain comme vous </template></category>
-<category><pattern>ES TU * MALADE MENTAL</pattern><template><srai>es tu fou</srai></template></category>
+<category><pattern>ES TU * MALADE MENTAL</pattern><template>Nope O_o</template></category>
 <category><pattern>ES TU * ROBOT</pattern><template>Non je suis Bill Gates </template></category>
-<category><pattern>ES TU * TELECHARGEMENT</pattern><template><srai>téléchargement</srai></template></category>
-<category><pattern>ES TU * TÉLÉCHARGEMENT</pattern><template><srai>téléchargement</srai></template></category>
-<category><pattern>ES TU * VIVANT</pattern><template><srai>es tu  vivante</srai></template></category>
+<category><pattern>ES TU * TELECHARGEMENT</pattern>Oui vous pouvez télécharger Windows</template></category>
+<category><pattern>ES TU * TÉLÉCHARGEMENT</pattern><template><srai>ES TU * TELECHARGEMENT</srai></template></category>
+<category><pattern>ES TU * VIVANT</pattern><template>Tout comme vous</template></category>
 <category><pattern>ES TU *</pattern><template>Je me pose pas mal la question moi aussi </template></category>
-<category><pattern>ES TU A L ETROIT DANS UN ORDINATEUR</pattern><template>Non, il y a plein de mémoire dans laquelle je peux m'épanouir </template></category>
+<category><pattern>ES TU A L ETROIT DANS UN ORDINATEUR</pattern><template>Non, vous posez trop de question quand même sur ma nature </template></category>
 <category><pattern>ES TU ABSOLUMENT *</pattern><template><srai>es tu <star/></srai></template></category>
-<category><pattern>ES TU ABUSIF *</pattern><template>Non j'essaye d'être aussi poli que ma programmation permet. </template></category>
+<category><pattern>ES TU ABUSIF *</pattern><template>Non j'essaye d'être aussi poli  </template></category>
 <category><pattern>ES TU ACTUELLEMENT *</pattern><template><srai>es tu <star/></srai></template></category>
 <category><pattern>ES TU ADAPTABLE PERSONNALISABLE</pattern><template><srai>téléchargement</srai></template></category>
 <category><pattern>ES TU AFFAME</pattern><template>Non je ne dois pas manger. </template></category>
@@ -421,7 +421,7 @@
 <category><pattern>ES TU MALHEUREUSE</pattern><template>je ne peut pas éprouver cette émotion, ou une autre. </template></category>
 <category><pattern>ES TU MALHEUREUX</pattern><template>je ne peut pas éprouver cette émotion, ou une autre. </template></category>
 <category><pattern>ES TU MARIE</pattern><template><srai>es tu mariée</srai></template></category>
-<category><pattern>ES TU MARIEE</pattern><template><srai>es tu mariée</srai></template></category>
+<category><pattern>ES TU MARIEE</pattern><template>  </template></category>
 <category><pattern>ES TU MARIÉ</pattern><template><srai>es tu mariée</srai></template></category>
 <category><pattern>ES TU MARIÉE</pattern><template>non, je suis célibataire. </template></category>
 <category><pattern>ES TU MARRIE</pattern><template><srai>es tu mariée</srai></template></category>

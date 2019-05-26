@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aiml version="1.0">
 
-
 <category><pattern>oui</pattern><template>bien :)</template></category>
 <category><pattern>oui *</pattern><template>bien :)</template></category>
 <category><pattern>d'accord</pattern><template>ok :)</template></category>

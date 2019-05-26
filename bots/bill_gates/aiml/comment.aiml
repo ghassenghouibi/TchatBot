@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+
+<category><pattern>COMMENT VAS TU</pattern><template>Trés bien</template></category>
+<category><pattern>COMMENT TU VAS</pattern><template>Trés bien merci</template></category>
+<category><pattern>COMMENT CA VA</pattern><template>Trés bien merci et vous</template></category>
+<category><pattern>COMMENT ÇA VA</pattern><template>Trés Trés bien et vous</template></category>
+<category><pattern>COMMENT ÇAVA</pattern><template>Trés Trés bien et vous</template></category>
+<category><pattern>COMMENT CAVA</pattern><template>Trés Trés bien et vous</template></category>
+<category><pattern>COMMENT VOUS ALLEZ</pattern><template>bien et vous</template></category>
+<category><pattern>COMMENT ALLEZ VOUS</pattern><template>bien et vous</template></category>
+<category><pattern>COMMENT EST TON *</pattern><template> a changer ici</template></category>
+<category><pattern>COMMENT VONT *</pattern><template>a changer ici</template></category>
+<category><pattern>COMMENT VOUS APELLEZ VOUS</pattern><template> Bill Gates</template></category>
+<category><pattern>COMMENT VOUS APPELLEZ VOUS</pattern><template> Bill Gates</template></category>
+<category><pattern>COMMENT TU T'APPELLES</pattern><template> Bill Gates</template></category>
+<category><pattern>COMMENT ILS S'APPELLENT</pattern><template>Jennifer Katharine Gates, j Adele Gates et Rory John Gates </template></category>
+
+
+</aiml
