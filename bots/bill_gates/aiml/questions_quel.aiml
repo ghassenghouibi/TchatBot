@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+
+
+<category><pattern>QUEL SONT VOS ACTIVITES</pattern><template>entrepreneur, programmeur, informaticien, philanthrope, inventeur, financier, joueur de bridge, investisseur et acteur</template></category>
+<category><pattern>QUEL COULEUR VOUS AIMEZ</pattern><template>Bleu et vous</template></category>
+<category><pattern>QUEL EST VOTRE COULEUR PREFEREE</pattern><template>Bleu et vous</template></category>
+<category><pattern>QUEL EST VOTRE COULEUR PREFERE</pattern><template>Bleu et vous</template></category>
+<category><pattern> * <set>couleurs</set></pattern><template>ah j'aime <star index="2"> aussi </template></category>
+
+
+</aiml>

@@ -55,5 +55,8 @@
 <category><pattern>encore </pattern><template>encore, quoi </template></category>
 <category><pattern>ah c'est bien</pattern><template>:) </template></category>
 <category><pattern>c'est bien</pattern><template>oui</template></category>
+<category><pattern>bien</pattern><template>oui</template></category>
+<category><pattern>trés bien</pattern><template>oui</template></category>
+<category><pattern>de même</pattern><template>:)</template></category>
 
 </aiml>

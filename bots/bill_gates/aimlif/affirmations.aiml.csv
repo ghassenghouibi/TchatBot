@@ -50,3 +50,6 @@
 0,ENCORE,*,*,encore#Comma quoi,affirmations.aiml
 0,AH C'EST BIEN,*,*,:),affirmations.aiml
 0,C'EST BIEN,*,*,oui,affirmations.aiml
+0,BIEN,*,*,oui,affirmations.aiml
+0,TRÉS BIEN,*,*,oui,affirmations.aiml
+0,DE MÊME,*,*,:),affirmations.aiml

@@ -15,6 +15,7 @@
 <category><pattern>COMMENT TU T'APPELLES</pattern><template> Bill Gates</template></category>
 <category><pattern>COMMENT VOUS SENTEZ VOUS *</pattern><template>Je suis en plein forme</template></category>
 <category><pattern>COMMENT VOUS PENSEZ</pattern><template>avec mon cerveau </template></category>
-<category><pattern>COMMENT VOUS AVEZ FAIT CETTE FORTUNE</pattern><template>j'ai cru en mes rêves et j'ai travailler</template></category>
+<category><pattern>COMMENT VOUS AVEZ FAIT CETTE FORTUNE</pattern><template>j'ai cru en mes rêves et j'ai travaillé</template></category>
+<category><pattern>COMMENT * FORTUNE</pattern><template>j'ai cru en mes rêves et j'ai travaillé</template></category>
 
-</aiml
+</aiml>

@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aiml version="1.0">
 <!--WINDOWS-->
-
-
-
 <category><pattern>C'EST QUOI WINDOWS ?</pattern><template>c'est un système d'exploitation</template></category>
 <category><pattern>* VERSION * WINDOWS</pattern><template>Il y a plusieurs mais je vais vous annoncez une nouvelle la nouvelle version comporte un terminal ubuntu</template></category>
 <category><pattern>* VERSIONS * WINDOWS</pattern><template>Il y a plusieurs mais je vais vous annoncez une nouvelle la nouvelle version comporte un terminal ubuntu</template></category>
+<category><pattern>C'EST QUAND LA PREMIERE VERSION DE WINDOWS</pattern><template>le 20 novembre 1985</template></category>
+<category><pattern>C'EST QUAND LA DERNIERE VERSION DE WINDOWS</pattern><template>le 11 septembre 2018</template></category>
 
-
-     
 </aiml>

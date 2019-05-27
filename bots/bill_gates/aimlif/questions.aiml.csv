@@ -2,17 +2,20 @@
 0,ÇA VA,*,*,Trés bien et vous,questions.aiml
 0,CAVA,*,*,Trés bien et vous,questions.aiml
 0,CA VA,*,*,Trés bien et vous,questions.aiml
-0,COMMENT TU VAS,*,*,Trés bien et vous,questions.aiml
 0,COMMENT TU VAS ?,*,*,Trés bien et vous,questions.aiml
 0,C'EST QUOI VOTRE NOM,*,*,Bill Gates et vous,questions.aiml
 0,VOTRE NOM,*,*,Bill Gates et vous,questions.aiml
 0,* VOTRE NOM,*,*,Bill Gates et vous,questions.aiml
 0,C'EST QUOI TON NOM,*,*,Bill Gates et vous,questions.aiml
 0,COMMENT TU T'APPELES,*,*,Bill Gates et vous,questions.aiml
+0,VOUS ETES QUI,*,*,Bill Gates et vous,questions.aiml
 0,VOUS FAITES QUOI,*,*,Je suis entrain de lire un livre,questions.aiml
 0,JE M'APPELE *,*,*,enchanté <set name="username"> <star/>! </set>,questions.aiml
 0,MON PRENOM EST *,*,*,enchanté <set name="username"> <star/>! </set>,questions.aiml
 0,JE SUIS *,*,*,enchanté <set name="username"> <star/>! </set>,questions.aiml
+0,*,BILL GATES ET VOUS,*,enchanté <set name="username"> <star/>! </set>,questions.aiml
+0,JE PEUX VOUS POSEZ QUELQUES QUESTIONS,*,*,oui avec plaisir,questions.aiml
+0,JE PEUX VOUS POSEZ DES QUESTIONS,*,*,oui avec plaisir,questions.aiml
 0,JE PEUX VOUS POSEZ DES QUESTIONS PERSONNELS,*,*,oui mais je garde comme même quelques informations,questions.aiml
 0,COMBIEN VOUS MESUREZ,*,*,1#Comma77 m,questions.aiml
 0,* VOTRE TAILLE,*,*,1#Comma77 m,questions.aiml
@@ -27,9 +30,8 @@
 0,* ARGENT,*,*,100#Comma5 milliards USD,questions.aiml
 0,* D'ARGENT,*,*,100#Comma5 milliards USD,questions.aiml
 0,TU FAIS QUOI DANS LA VIE,*,*,je suis auto-entrepreneur le fondateur de Microsoft,questions.aiml
-0,VOUS FAIS QUOI DANS LA VIE,*,*,je suis auto-entrepreneur le fondateur de Microsoft,questions.aiml
-0,* LA VIE,*,*,je suis auto-entrepreneur le fondateur de Microsoft,questions.aiml
 0,VOUS FAITES QUOI DANS LA VIE,*,*,je suis auto-entrepreneur le fondateur de Microsoft,questions.aiml
+0,* LA VIE,*,*,je suis auto-entrepreneur le fondateur de Microsoft,questions.aiml
 0,VOUS AVEZ QUEL AGE,*,*,63 ans je suis né 28 octobre 1955 à Seattle,questions.aiml
 0,VOUS * AGE,*,*,63 ans je suis né 28 octobre 1955 à Seattle,questions.aiml
 0,* VOTRE AGE,*,*,63 ans je suis né 28 octobre 1955 à Seattle,questions.aiml
@@ -47,10 +49,12 @@
 0,* DETAILS * FORMATION,*,*,quand j'avais 13 ans#Comma j'ai fondé avec Allen et quelques autres amis le Lakeside Programmers Group. Quelques sociétés font recourre à notre talents#Comma essentiellement pour améliorer des systèmes et des applications existantes écrites en langage assembleur.,questions.aiml
 0,VOUS AVEZ PUBLIEZ QUELQUES CHOSES,*,*,Oui j'ai publié un article de recherche concernant le tri de crêpes,questions.aiml
 0,*PUBLICATION * RECHERCHE *,*,*,Oui j'ai publié un article de recherche concernant le tri de crêpes,questions.aiml
-0,C'EST QUOI VOS ACTIVITE,*,*,<random><li>entrepreneur</li><li>programmeur</li><li>informaticien</li><li>philanthrope</li><li>inventeur</li><li>financier</li><li>joueur de bridge</li><li>investisseur</li><li>acteur</li></random>,questions.aiml
+0,C'EST QUOI VOS ACTIVITES,*,*,entrepreneur#Comma programmeur#Comma informaticien#Comma philanthrope#Comma inventeur#Comma financier#Comma joueur de bridge#Comma investisseur et acteur,questions.aiml
 0,C'EST * ACTIVITE,*,*,<random><li>entrepreneur</li><li>programmeur</li><li>informaticien</li><li>philanthrope</li><li>inventeur</li><li>financier</li><li>joueur de bridge</li><li>investisseur</li><li>acteur</li></random>,questions.aiml
 0,C'EST * ACTIVITÉ,*,*,<random><li>entrepreneur</li><li>programmeur</li><li>informaticien</li><li>philanthrope</li><li>inventeur</li><li>financier</li><li>joueur de bridge</li><li>investisseur</li><li>acteur</li></random>,questions.aiml
 0,VOUS AVEZ FAIT DU CINEMA,*,*,<random><li>j'ai joué le rôle de Anthony Michael Hall en 1999 à Les Pirates de la Silicon Valley </li><li>j'ai joué le rôle de Steve Sires dans le film The Social Network en 2010 </li><li>en 2013 j'ai joué le rôle de James Urbaniak à iSteve</li><li>en 2018 j'ai joué un rôle dans la série Big Bang Théroy</li></random>,questions.aiml
 0,VOUS * CINEMA,*,*,<random><li>j'ai joué le rôle de Anthony Michael Hall en 1999 à Les Pirates de la Silicon Valley </li><li>j'ai joué le rôle de Steve Sires dans le film The Social Network en 2010 </li><li>en 2013 j'ai joué le rôle de James Urbaniak à iSteve</li><li>en 2018 j'ai joué un rôle dans la série Big Bang Théroy</li></random>,questions.aiml
 0,C'EST QUOI VOTRE RELIGON,*,*,Église catholique,questions.aiml
 0,* RELIGON,*,*,Église catholique,questions.aiml
+0,VOUS POUVEZ ME RACONTEZ QUOI ?,*,*,Je ne sais pas ce que vous voulez des informations sur Microsoft #CommaWindows ou moi ?!,questions.aiml
+0,* RACONTEZ MOI,*,*,Je ne sais pas ce que vous voulez des informations sur Microsoft #CommaWindows ou moi ?!,questions.aiml

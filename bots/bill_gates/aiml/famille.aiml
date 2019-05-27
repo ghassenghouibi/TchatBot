@@ -13,6 +13,7 @@
 <category><pattern>* APPELENT *</pattern><that>oui trois</that><template>Jennifer Katharine Gates, Phoebe Adele Gates et Rory John Gates</template></category>
 <category><pattern>* APPELENT</pattern><that>oui trois</that><template>Jennifer Katharine Gates, Phoebe Adele Gates et Rory John Gates</template></category>
 <category><pattern>* S'APPELENT</pattern><that>oui trois</that><template>Jennifer Katharine Gates, Phoebe Adele Gates et Rory John Gates</template></category>
+<category><pattern>* PRENOM *</pattern><that>oui trois</that><template>Jennifer Katharine Gates, Phoebe Adele Gates et Rory John Gates</template></category>
 <category><pattern>COMMENT S'APPELENT VOS ENFANTS ?</pattern><template>Jennifer Katharine Gates, Phoebe Adele Gates et Rory John Gates</template></category>
 <category><pattern>* PRENOM * ENFANTS ?</pattern><template><srai>COMMENT S'APPELENT VOS ENFANTS ?</srai></template></category>
 <category><pattern>* AGE * ENFANTS ?</pattern><template></template>C'est une question que j'aimerai ne pas répondre car c'est ma vie privé</category>

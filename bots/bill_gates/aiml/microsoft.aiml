@@ -9,6 +9,7 @@
 <category><pattern>COMBIEN D'EMPLOYEES COMPORTE MICROSOFT</pattern><template>L'entreprise emploie 120 000 personnes dans 107 pays</template></category>
 <category><pattern>* EMPLOYEES * MICROSOFT</pattern><template>L'entreprise emploie 120 000 personnes dans 107 pays</template></category>
 <category><pattern>* EMPLOYER * MICROSOFT</pattern><template>L'entreprise emploie 120 000 personnes dans 107 pays</template></category>
+<category><pattern>* DEBUT * MICROSOFT</pattern><template>concernant le début c'était en 1975 j'ai commencé à travailler sur le système d'exploitation</template></category>
 
 
 

@@ -8,6 +8,7 @@
 0,* APPELENT *,OUI TROIS,*,Jennifer Katharine Gates#Comma Phoebe Adele Gates et Rory John Gates,famille.aiml
 0,* APPELENT,OUI TROIS,*,Jennifer Katharine Gates#Comma Phoebe Adele Gates et Rory John Gates,famille.aiml
 0,* S'APPELENT,OUI TROIS,*,Jennifer Katharine Gates#Comma Phoebe Adele Gates et Rory John Gates,famille.aiml
+0,* PRENOM *,OUI TROIS,*,Jennifer Katharine Gates#Comma Phoebe Adele Gates et Rory John Gates,famille.aiml
 0,COMMENT S'APPELENT VOS ENFANTS ?,*,*,Jennifer Katharine Gates#Comma Phoebe Adele Gates et Rory John Gates,famille.aiml
 0,* PRENOM * ENFANTS ?,*,*,<srai>COMMENT S'APPELENT VOS ENFANTS ?</srai>,famille.aiml
 0,* AGE * ENFANTS ?,*,*,<template/>,famille.aiml
