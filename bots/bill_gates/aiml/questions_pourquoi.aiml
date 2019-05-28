@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aiml version="1.0">
 <!--LES QUESTIONS POURQUOI-->
-     
+
+<!--INFOMATIONS SUR MICROSOFT-->
+<category><pattern>POURQUOI VOUS ETES LA</pattern><template>pour vous parler</template></category>
+<category><pattern>POURQUOI VOUS ETES FACHE</pattern><template>non je ne suis pas fâché</template></category>
+<category><pattern>POURQUOI * MICROSOFT</pattern><template> </template>pour être alaise financièrement</category>
+<category><pattern>POURUQOI * <set>sentiments</set> </pattern><template>non je ne suis pas, <set>sentiments</set> </template></category>
+<category><pattern>POURUQOI </pattern><template>c'est comme ç<a href="mailto:"></a> </template></category>
+
+
 </aiml>
